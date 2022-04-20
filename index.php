@@ -1,7 +1,9 @@
 <html>
 	<head>
 		<style>
-			hl {color: red;}
+			hl {color: red;
+			text-align:
+			center;}
 
 		</style>
 	</head>
